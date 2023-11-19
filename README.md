@@ -22,8 +22,43 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+## Base:
+![Ex.No.6-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS](empd61.png)
+
+The base or print bed is the flat surface on which the object is built during the 3D printing process. It is usually a heated platform that provides stability and adhesion for the initial layers of the print.
+<br>
+
+## Extruder:
+![Ex.No.6-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS](empd62.png)
+
+Extruder is a component that is responsible for heating,melting and depositing the filament in the print bed or base.It consist of motor,heating element and nozzle. The motor drives a gear or a wheel that grips the filament and pushes it into a heating chamber.Heated element is extruded through nozzle.
+<br>
+
+## Material spool:
+![Ex.No.6-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS](empd63.png)
+
+Material spool is the cylindrical holder or container that holds the filament used for printing. The filament, which is typically in the form of a long, thin thread, is wound around the spool.
+<br>
+
+## Filament:
+![Ex.No.6-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS](empd64.png)
+
+Filament is a long, thin strand of thermoplastic material that is fed into the 3D printer's extruder, melted, and deposited layer by layer to create a three-dimensional object.PLA (Polylactic Acid),ABS (Acrylonitrile Butadiene Styrene),PETG (Polyethylene Terephthalate Glycol) are some of the commonly used filament materials.
+<br>
+
+## Start process:
+![Ex.No.6-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS](empd65.png)
+
+As per G-codes and M-codes ,the 3d printer starts to print the 3d model.The print bed is heated and ensures adhesion of base layer of the model.Then the filament from spool is pulled into extruder,where heating element heats filament and deposit it on the print bed.
+<br>
+
+## Stop process:
+![Ex.No.6-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS](empd66.png)
+
+post processing is carried out to refine and enhance the final object.Once the print is complete, carefully remove the printed object from the build plate.The support material need to be removed from the model.
+
+### Name: Sneha Basyal M
+### Register Number: 212222240101
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
