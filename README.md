@@ -16,46 +16,13 @@
 ### STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/998a5e1b-4fea-4f03-a323-dd49973513a7)
-![123_2](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/92d9d5de-1d13-43b2-a354-c3429e38d50b)
-![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
+![284584667-6c96d802-1f67-45c9-8f48-84fa1f4c0e6e](https://github.com/SnehaBasyal/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/119390146/ce628486-f0c8-4264-866e-cdae42558895)
 
-## Output:
+![284584718-2ba165c8-49cb-48b3-b3d4-f61631fa7fbc](https://github.com/SnehaBasyal/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/119390146/27ea4c1c-0b98-4054-bf0d-6df2e0fad794)
 
-## Base:
-![Ex.No.6-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS](empd61.png)
+![284584755-9e349a73-7f13-4799-acd7-e97f4dfe7cf2](https://github.com/SnehaBasyal/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/119390146/ffb52f16-835e-4eec-8965-dc2fd6b1a662)
 
-The base or print bed is the flat surface on which the object is built during the 3D printing process. It is usually a heated platform that provides stability and adhesion for the initial layers of the print.
-<br>
-
-## Extruder:
-![Ex.No.6-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS](empd62.png)
-
-Extruder is a component that is responsible for heating,melting and depositing the filament in the print bed or base.It consist of motor,heating element and nozzle. The motor drives a gear or a wheel that grips the filament and pushes it into a heating chamber.Heated element is extruded through nozzle.
-<br>
-
-## Material spool:
-![Ex.No.6-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS](empd63.png)
-
-Material spool is the cylindrical holder or container that holds the filament used for printing. The filament, which is typically in the form of a long, thin thread, is wound around the spool.
-<br>
-
-## Filament:
-![Ex.No.6-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS](empd64.png)
-
-Filament is a long, thin strand of thermoplastic material that is fed into the 3D printer's extruder, melted, and deposited layer by layer to create a three-dimensional object.PLA (Polylactic Acid),ABS (Acrylonitrile Butadiene Styrene),PETG (Polyethylene Terephthalate Glycol) are some of the commonly used filament materials.
-<br>
-
-## Start process:
-![Ex.No.6-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS](empd65.png)
-
-As per G-codes and M-codes ,the 3d printer starts to print the 3d model.The print bed is heated and ensures adhesion of base layer of the model.Then the filament from spool is pulled into extruder,where heating element heats filament and deposit it on the print bed.
-<br>
-
-## Stop process:
-![Ex.No.6-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS](empd66.png)
-
-post processing is carried out to refine and enhance the final object.Once the print is complete, carefully remove the printed object from the build plate.The support material need to be removed from the model.
+![284584779-835c4f79-5dbf-43e4-9a63-5503014695a0](https://github.com/SnehaBasyal/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/119390146/e54d0ce3-d43a-452f-82f3-aa5d021e20c9)
 
 ### Name: Sneha Basyal M
 ### Register Number: 212222240101
